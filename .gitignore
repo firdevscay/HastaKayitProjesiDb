@@ -1,0 +1,5 @@
+(2).vs/
+**/bin/
+**/obj/
+**/.vs/
+**/App.config
