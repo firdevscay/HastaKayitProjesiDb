@@ -1,6 +1,6 @@
-# Hasta Kayıt Form Projesi
+### Hasta Kayıt Form Projesi
 
-## Veritabanı Bağlantısı
+#### Veritabanı Bağlantısı
 
 Projede SQL Server ile bağlantı `App.config` dosyası üzerinden sağlanır.  
 Kendi bağlantı bilgilerinizi içeren `App.config` dosyasını oluşturmanız gerekmektedir.
